@@ -1,7 +1,3 @@
-### Bloomberg Data Exchange, September 2015
-
-#### Building an Urban Data Science Summer Program at the University of Washington eScience Institute
-
 Talk at the University of Washington [Change Seminar](http://change.washington.edu/), February 16th 2016.
 
 The talk was built using the [reveal.js](https://github.com/hakimel/reveal.js/) library.
